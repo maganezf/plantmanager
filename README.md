@@ -32,13 +32,13 @@
 
 <div align="center">
 
-> This is my 'Plant Manager' project 🤗
+> Este é o meu projeto do Plant Manager' 🤗
 
-<sub>The 'Plant Manager' project. <br/>
-Built with ❤︎ by
-<a href="https://github.com/maganezf">Maganez Filho</a> and
+<sub>O projeto 'Plant Manager'.<br/>
+Feito com ❤︎ by
+<a href="https://github.com/maganezf">Maganez</a> e
 <a href="https://github.com/maganezf/plantmanager/graphs/contributors">
-contributors
+contribuidores
 </a>
 </sub>
 
