@@ -1,7 +1,10 @@
-<h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
-  <img alt="My Logo" title="My Logo" src=".github/logo.svg" width="350" />
-</h1>
+<div align="center">
+
+# <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+
+# <img alt="My Logo" title="My Logo" src=".github/logo.svg" width="350" />
+
+</div>
 
 <p align="center">
 
